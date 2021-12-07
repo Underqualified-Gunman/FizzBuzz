@@ -1,0 +1,29 @@
+start by displaying greeting
+tell them what the programs function to do is
+
+programs function is to display fizz, buzz, or fizzbuzz if a number divides evenly by 3, 5, or both respectivly and go through 1 to 100
+
+for loop that loops until 100
+
+use the modulus operator to determine if cleanly divides by 3
+diito but for 5
+
+have 4 branch if statement that handles the print solution
+have bool flag named clean that gets set for either fizz or buzz that sets answer to "" and uses answer instead of i
+
+if clean false print cout << i;
+
+if clean true print cout << answer;
+
+
+go back to for loop before program end
+
+
+////////////// copy of request before
+Per a recent "Sharing Cool Information" and work Forum post by a McMillanite, can you solve the following FizBuzz test using C++?
+
++5 EC added to your test for successful writing. Take pride in your work. Make sure that your code is legible, not appearing all on one line. This can be achieved by copy you code to Word, then copy from word to the Essay prompt: 
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". 
+
+
